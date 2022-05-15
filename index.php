@@ -9,5 +9,8 @@
 <body>
     <h1>Hello World!</h1>
     <p>Coba aja deh</p>
+    <ul>
+        <li>halha</li>
+    </ul>
 </body>
 </html>
